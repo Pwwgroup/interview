@@ -9,7 +9,7 @@ Some template code has been provided to get you started. Please feel free to use
 
 ## Frontend
 
-The frontend application should be a single page app and use a modern web framework like VueJS, NuxtJS or Reach. The application should retrieve and display a list of products from the backend and give the user ability to sort and group the products.
+The frontend application should be a single page app and use a modern web framework like VueJS, NuxtJS or React. The application should retrieve and display a list of products from the backend and give the user ability to sort and group the products.
 
 ## Backend
 

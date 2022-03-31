@@ -1,4 +1,4 @@
-# UtilityLocker Applicant Test
+# GEAB Applicant Test
 
 A full stack template application test to be completed by potential full-stack developers.
 

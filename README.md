@@ -33,7 +33,7 @@ Q. How long should I spend on the task?
 A. Its really up to you, but we're sure you've got busy lives with plenty of commitments already, so we've tried to limit the task to something that could be achieved over a weekend or a few evenings
 
 Q. I'm not familiar with one or more of the tools/languages/frameworks, do I have to use them?  
-A. We've used the tools in this template because they represent a large portion of what we anticipate to use in our real stack at UtilityLocker. If you are unfamiliar with any of them we would first recommend a bit of research on how to use them, but ultimately if you wish to complete the task using something you're already comfortable with and it works thats fine, just be sure to write up any reasoning to include with your submission
+A. We've used the tools in this template because they represent a large portion of what we anticipate to use in our real stack at GEAB. If you are unfamiliar with any of them we would first recommend a bit of research on how to use them, but ultimately if you wish to complete the task using something you're already comfortable with and it works thats fine, just be sure to write up any reasoning to include with your submission
 
 Q. What if I get stuck?
 A. There are a lot of parts and things to consider here, so if an aspect is being troublesome don't dwell on it for too long. We'll still consider your submission even if you've had to skip over a step here or there. Again add any comments if this is the case to your submission, explaining your thoughts and understanding where you may need to develop is something we put a lot of value on.
